@@ -87,4 +87,8 @@ void main() {
   print('property1After: ${SingletonClass().property1}');
   print('property2After: ${SingletonClass().property2}');
 }
-```dart
+
+---
+```md
+Source:  
+[Dart Singleton Pattern Documentation](https://pieces.app/collections/dart)
