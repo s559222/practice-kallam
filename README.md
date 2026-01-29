@@ -5,7 +5,13 @@ Coldplay is my favorite band because their music is **meaningful**. I personally
 
 ## Favorite Musicians
 
-
 1. A. R. Rahman  
 2. Taylor Swift  
 3. Ed Sheeran
+
+### Favorite Books
+
+- The power of your subconscious mind
+- Atomic Habits  
+- Breath by James Nestor 
+
