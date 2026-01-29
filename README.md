@@ -54,6 +54,9 @@ A singleton ensures that only **one instance of a class** is created and shared
 throughout the program. This is useful when a single, consistent state is needed
 across the application.
 
+[Snippet Source – Dart Collection](https://pieces.app/collections/dart)
+
+
 ```dart
 class SingletonClass {
   static final SingletonClass _instance = SingletonClass._internal();
@@ -88,7 +91,3 @@ void main() {
   print('property2After: ${SingletonClass().property2}');
 }
 
----
-```md
-Source:  
-[Dart Singleton Pattern Documentation](https://pieces.app/collections/dart)
