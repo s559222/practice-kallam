@@ -35,3 +35,12 @@ These are the places I want to atleast visit in my life and the reasoning why I 
 |  China | To experience the modern technologies, updated cities  | 6,700 miles  | $5000  |
 | Bali  | To experience the nature and peace | 9,600 miles  | $2000  |
 |  Bahamas | To experience clear water and beaches  | 1500 miles  | $2500 |
+
+---
+## Favorite Quotes
+
+> "One day you'll leave this world behind, so live a life you will remember"  
+*— Avicii*
+
+> "What doesn't kill you makes you stronger"  
+*— Kelly Clarkson*
