@@ -44,3 +44,46 @@ These are the places I want to atleast visit in my life and the reasoning why I 
 
 > "What doesn't kill you makes you stronger"  
 *— Kelly Clarkson*
+
+---
+
+##  Dart Singleton Example
+
+The following Dart code demonstrates the **Singleton design pattern**.  
+A singleton ensures that only **one instance of a class** is created and shared
+throughout the program. This is useful when a single, consistent state is needed
+across the application.
+
+```dart
+class SingletonClass {
+  static final SingletonClass _instance = SingletonClass._internal();
+
+  factory SingletonClass() {
+    return _instance;
+  }
+
+  SingletonClass._internal();
+
+  String property1 = 'Default Property 1';
+  String property2 = 'Default Property 2';
+}
+
+/// Example consuming the singleton class and accessing/manipulating properties
+/// To evaluate the difference between a normal class and a singleton class, comment
+/// out the factory constructor and _instance in SingletonClass and re-run.
+void main() {
+  /// Properties before
+  String property1Before = SingletonClass().property1;
+  String property2Before = SingletonClass().property2;
+
+  print('property1Before: $property1Before');
+  print('property2Before: $property2Before');
+
+  /// Updating the properties
+  SingletonClass().property1 = 'Updated Property 1';
+  SingletonClass().property2 = 'Updated Property 2';
+
+  /// Properties after
+  print('property1After: ${SingletonClass().property1}');
+  print('property2After: ${SingletonClass().property2}');
+}
