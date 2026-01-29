@@ -22,3 +22,16 @@ Coldplay is my favorite band because their music is **meaningful**. I personally
 
  My favorite travel destination :  
 [My Favorite Location – Switzerland](MyLocation.md)
+
+---
+## Places I want to Visit
+
+These are the places I want to atleast visit in my life and the reasoning why I want to visit.
+
+| Places | Reason | Distance | Budget |
+|--------|--------|----------|--------|
+| Italy | To explore historic cities, art, and food| ~5,100 miles|$3000 |
+| Australia| To see kangaroos and other wildlife in the city| ~9,300 miles | $4500 |
+|  China | To experience the modern technologies, updated cities  | 6,700 miles  | $5000  |
+| Bali  | To experience the nature and peace | 9,600 miles  | $2000  |
+|  Bahamas | To experience clear water and beaches  | 1500 miles  | $2500 |
