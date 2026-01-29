@@ -15,3 +15,7 @@ Coldplay is my favorite band because their music is **meaningful**. I personally
 - Atomic Habits  
 - Breath by James Nestor 
 
+## More About Me
+
+ My favorite travel destination :  
+[My Favorite Location – Switzerland](MyLocation.md)
